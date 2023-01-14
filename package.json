@@ -8,7 +8,7 @@
     "cookie-parser": "1.4.3",
     "express": "^4.16.2",
     "express-promise-router": "^3.0.1",
-    "express-winston": "2.4.0",
+    "express-winston": "2.6.0",
     "expressty": "0.1.4",
     "method-override": "2.3.10",
     "winston": "2.4.0"
